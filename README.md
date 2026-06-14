@@ -24,5 +24,7 @@ A command-line interface tool built in Java to help students track their courses
    ```bash
    javac GWACalculator.java
 
+   ```
+
    <img width="411" height="643" alt="image" src="https://github.com/user-attachments/assets/65906acf-3921-42e5-a1ef-680d541f7785" />
 
